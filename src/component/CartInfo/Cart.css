@@ -1,0 +1,12 @@
+.total-price {
+  font-weight: 400;
+  color: black;
+}
+
+.course-count {
+  color: orange;
+}
+
+.order-summary {
+  color: rgb(29, 2, 4);
+}
